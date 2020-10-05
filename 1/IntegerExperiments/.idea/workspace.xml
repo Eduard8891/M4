@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c207696-61bd-44d8-8963-9597bb92943d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IntegerExperiments/Container.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IntegerExperiments/Main.class" afterDir="false" />
+    <list default="true" id="1c207696-61bd-44d8-8963-9597bb92943d" name="Default Changelist" comment="HW 4.1 sumDigits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1601547794388</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW 4.1 sumDigits">
+      <created>1601813642916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601813642916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,23 +87,31 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW 4.1 sumDigits" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 4.1 sumDigits" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1601803343516">
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1601817758534">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601803343516" />
-    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1601803343516">
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1601817758534" />
+    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1601817758534">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601803343516" />
-    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1601803343516">
+    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1601817758534" />
+    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1601817758534">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601803343516" />
-    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1601803343516">
+    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1601817758534" />
+    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1601817758534">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601803343516" />
+    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1601817758534" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1601813931817">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1601813931817" />
   </component>
   <component name="masterDetails">
     <states>
