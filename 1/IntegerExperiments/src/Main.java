@@ -15,12 +15,14 @@ public class Main
 
     public static Integer sumDigits(Integer number){
         String sLength = number.toString();
+        Integer vLength = Integer.valueOf(sLength);
+        int numParse = Integer.parseInt(sLength);
         int iLength = sLength.length();
         int sum = 0;
         for (int num = 0; num < iLength; num++) {
             char p = sLength.charAt(num);
-            int t = p - '0';
-            sum = sum+t;
+            int intP = p - '0';
+            sum = sum + intP;
         }
         System.out.println("Сумма чисел числа "+number+" равна "+sum);
         return 0;
